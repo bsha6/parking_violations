@@ -37,3 +37,9 @@ ehthumbs.db
 Thumbs.db
 config.py
 .pkl
+Data/
+merge
+create_tables
+analyze_violation_status
+**/*.ipynb_checkpoints/
+__pycache__/
