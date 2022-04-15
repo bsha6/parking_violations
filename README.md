@@ -1,4 +1,6 @@
-# Determine whether or not it's worth it to dispute a ticket
+# Can I Get Out of This Ticket?
+
+### Using 30+ GB of data and an XGBoost Model to recommend if you should dispute your ticket.
 
 ![screenshot of parking website](website_screenshot.png)
 
